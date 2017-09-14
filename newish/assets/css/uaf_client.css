@@ -1,0 +1,15 @@
+@font-face {
+    font-family: 'bg';
+    font-style: normal;
+    src: url('/wp-content/uploads/useanyfont/160219070055BG.eot');
+    src: local('bg'), url('/wp-content/uploads/useanyfont/160219070055BG.eot') format('embedded-opentype'), url('/wp-content/uploads/useanyfont/160219070055BG.woff') format('woff');
+}
+
+.bg{font-family: 'bg' !important;}
+
+            h1, h2, h3, h4, h5{
+        font-family: 'bg' !important;
+    }
+            div{
+        font-family: 'bg' !important;
+    }
